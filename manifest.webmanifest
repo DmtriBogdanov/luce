@@ -1,0 +1,37 @@
+{
+    "name": "Luce · Итальянский ресторан",
+    "short_name": "Luce",
+    "description": "Итальянская кухня в Санкт-Петербурге. Учебный проект.",
+    "lang": "ru",
+    "start_url": "./",
+    "scope": "./",
+    "display": "standalone",
+    "background_color": "#0c0b09",
+    "theme_color": "#0c0b09",
+    "icons": [
+        {
+            "src": "assets/icons/favicon.svg?v=545187980c",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        },
+        {
+            "src": "assets/icons/icon-192.png?v=7ed3574aea",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "assets/icons/icon-512.png?v=8e89f35a93",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "assets/icons/icon-maskable-512.png?v=579ee87ecf",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}

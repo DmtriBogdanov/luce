@@ -1,0 +1,3 @@
+# Предварительная версия сайта: индексация закрыта (noindex в config/deploy.php).
+User-agent: *
+Disallow: /
